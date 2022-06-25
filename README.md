@@ -5,7 +5,7 @@ GitHub page (https://github.com/globaldothealth/monkeypox/)
 and generate an mp4 movie file that animates how the numbers of positive cases of monkeypox developed over space and time.
 
 An example can be seen in the following:
-* Worldwide animation: TBD
+* Worldwide animation: https://twitter.com/HirokiSayama/status/1540497919148789760
 
 In the visualization, the size of each disc represents the number of daily new positive cases (scaled). The 
 color of the disc is determined by (# of daily new cases) / (max # of daily new cases observed up to that point),
